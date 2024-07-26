@@ -41,3 +41,4 @@ int main()
 	<< amtOwed << endl;
 	
 	return 0;
+}	//end of main function
